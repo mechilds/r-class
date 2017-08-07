@@ -1,0 +1,78 @@
+---
+title: "Week 3 Assignment: Create New Choose Function"
+author: "Melissa Childs"
+date: "July 30, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+For this week's assignment, we were tasked with creating our own version of the R choose() function to solve for "5 choose 3". The constraints are that we cannot use the built in factorial() and choose() functions.
+
+In evaluating the equation for n choose r, which is "n!/((n-r)!*r!)", I first needed to create three different factoral functions, outlined below:
+
+```{r}
+#factorialn <- calculates n!
+#factorialr <- calculates r!
+#factorialnr <- calculates (n-r)!
+```
+
+Then, I needed to create a fourth equation, which would incoporate the three factorial functions into the choose equation:
+```{r}
+# mychoosee <- factorialn / factorialnr * factorialr
+```
+Then, I needed to incorporate all of this into a function, which would allow any value for n and r to be input into the mychoose and factorial equations and the correct solution for "n choose r" to be output.
+
+So first, I created the factorial functions. I tried incorporating the factorial for-loop that I had developed in week 1 by assigning this loop to a function, and moving the "print" statement outside of the loop curly brackets so as to only print the final number of the factorial instead of the entire string.
+
+```{r}
+example <- function(x){
+  myfact <- 1
+for(i in 1:x)
+{
+ myfact <- myfact*i
+ 
+}
+ print(myfact)
+}
+example(12)
+```
+
+This was a sufficient solution for creating three unique factorial functions. However, I found that I was having a difficult time wrapping all the code for the loops into a fourth function for the choose equation.
+
+This is when I realized that I needed a more simple function for factorials. I searched online, and found inventive ways to code for factorials on Matlab (cite: http://www.matrixlab-examples.com/factorials.html). This gave me the idea to use the built in "prod" function to calculate the factorials. 
+
+The prod function works by multiplying together all the values included in its arguments. For example, using the prod function on a vector of numbers 1-5 will multiple each number in the sequence together:
+```{r}
+prod(1:5)
+#we can check this value against the factorial function and see that it's correct, which it is
+factorial(5)
+```
+So by replacing the value "5" in the prod argument with the value of n or r, and then assigning the built-in prod function to a variable, I can create a custom factorial equation that is equal to the prod function of 1 through n, r, or n-r.
+```{r}
+#factorialn <- prod(1:n)
+#factorialr <- prod(1:r)
+#factorialnr <- prod(1:(n - r))
+```
+Now I can incorporate these factorial functions into the choose equation:
+```{r}
+#mychoose2 <- factorialn / (factorialnr*factorialr)
+# 
+```
+The final thing I needed to do was wrap all these equations into a function so that n and r are defined as arguments in the function before being input through the equations. My final code is below:
+```{r}
+mychoose <- function(n, r){
+  factorialn <- prod(1:n)
+  factorialr <- prod(1:r)
+  factorialnr <- prod(1:(n - r))
+  mychoose2 <- factorialn / (factorialnr*factorialr)
+  return(mychoose2)
+}
+#Now all I have to do is input the values for n and r into the mychoose function 
+mychoose(5, 3)
+#we can compare this with the real choose function to confirm the answer
+choose(5, 3)
+```
