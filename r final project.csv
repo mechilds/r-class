@@ -1,0 +1,602 @@
+"participant","gender","age","years_married","children","religious","education","occupation","marriage_rating","number_of_affairs"
+"1",1,"male",37,10,"no",3,18,7,"happy",0
+"2",2,"female",27,4,"no",4,14,6,"happy",0
+"3",3,"female",32,15,"yes",1,12,1,"happy",0
+"4",4,"male",57,15,"yes",5,18,6,"very happy",0
+"5",5,"male",22,0.75,"no",2,17,6,"neutral",0
+"6",6,"female",32,1.5,"no",2,17,5,"very happy",0
+"7",7,"female",22,0.75,"no",2,12,1,"neutral",0
+"8",8,"male",57,15,"yes",2,14,4,"happy",0
+"9",9,"female",32,15,"yes",4,16,1,"unhappy",0
+"10",10,"male",22,1.5,"no",4,14,4,"very happy",0
+"11",11,"male",37,15,"yes",2,20,7,"unhappy",0
+"12",12,"male",27,4,"yes",4,18,6,"happy",0
+"13",13,"male",47,15,"yes",5,17,6,"happy",0
+"14",14,"female",22,1.5,"no",2,17,5,"happy",0
+"15",15,"female",27,4,"no",4,14,5,"happy",0
+"16",16,"female",37,15,"yes",1,17,5,"very happy",0
+"17",17,"female",37,15,"yes",2,18,4,"neutral",0
+"18",18,"female",22,0.75,"no",3,16,5,"happy",0
+"19",19,"female",22,1.5,"no",2,16,5,"very happy",0
+"20",20,"female",27,10,"yes",2,14,1,"very happy",0
+"21",21,"female",22,1.5,"no",2,16,5,"very happy",0
+"22",22,"female",22,1.5,"no",2,16,5,"very happy",0
+"23",23,"female",27,10,"yes",4,16,5,"happy",0
+"24",24,"female",32,10,"yes",3,14,1,"very happy",0
+"25",25,"male",37,4,"yes",2,20,6,"happy",0
+"26",26,"female",22,1.5,"no",2,18,5,"very happy",0
+"27",27,"female",27,7,"no",4,16,1,"very happy",0
+"28",28,"male",42,15,"yes",5,20,6,"happy",0
+"29",29,"male",27,4,"yes",3,16,5,"very happy",0
+"30",30,"female",27,4,"yes",3,17,5,"happy",0
+"31",31,"male",42,15,"yes",4,20,6,"neutral",0
+"32",32,"female",22,1.5,"no",3,16,5,"very happy",0
+"33",33,"male",27,0.417,"no",4,17,6,"happy",0
+"34",34,"female",42,15,"yes",5,14,5,"happy",0
+"35",35,"male",32,4,"yes",1,18,6,"happy",0
+"36",36,"female",22,1.5,"no",4,16,5,"neutral",0
+"37",37,"female",42,15,"yes",3,12,1,"happy",0
+"38",38,"female",22,4,"no",4,17,5,"very happy",0
+"39",39,"male",22,1.5,"yes",1,14,3,"very happy",0
+"40",40,"female",22,0.75,"no",3,16,1,"very happy",0
+"41",41,"male",32,10,"yes",5,20,6,"very happy",0
+"42",42,"male",52,15,"yes",5,18,6,"neutral",0
+"43",43,"female",22,0.417,"no",5,14,1,"happy",0
+"44",44,"female",27,4,"yes",2,18,6,"very unhappy",0
+"45",45,"female",32,7,"yes",5,17,5,"neutral",0
+"46",46,"male",22,4,"no",3,16,5,"very happy",0
+"47",47,"female",27,7,"yes",4,18,6,"very happy",0
+"48",48,"female",42,15,"yes",2,18,5,"happy",0
+"49",49,"male",27,1.5,"yes",4,16,3,"very happy",0
+"50",50,"male",42,15,"yes",2,20,6,"happy",0
+"51",51,"female",22,0.75,"no",5,14,3,"very happy",0
+"52",52,"male",32,7,"yes",2,20,6,"happy",0
+"53",53,"male",27,4,"yes",5,20,6,"very happy",0
+"54",54,"male",27,10,"yes",4,20,6,"happy",0
+"55",55,"male",22,4,"no",1,18,5,"very happy",0
+"56",56,"female",37,15,"yes",4,14,3,"very unhappy",0
+"57",57,"male",22,1.5,"yes",5,16,4,"happy",0
+"58",58,"female",37,15,"yes",4,17,1,"very happy",0
+"59",59,"female",27,0.75,"no",4,17,5,"happy",0
+"60",60,"male",32,10,"yes",4,20,6,"happy",0
+"61",61,"female",47,15,"yes",5,14,7,"unhappy",0
+"62",62,"male",37,10,"yes",3,20,6,"happy",0
+"63",63,"female",22,0.75,"no",2,16,5,"very happy",0
+"64",64,"male",27,4,"no",2,18,4,"very happy",0
+"65",65,"male",32,7,"no",4,20,6,"happy",0
+"66",66,"male",42,15,"yes",2,17,3,"very happy",0
+"67",67,"male",37,10,"yes",4,20,6,"happy",0
+"68",68,"female",47,15,"yes",3,17,6,"very happy",0
+"69",69,"female",22,1.5,"no",5,16,5,"very happy",0
+"70",70,"female",27,1.5,"no",2,16,6,"happy",0
+"71",71,"female",27,4,"no",3,17,5,"very happy",0
+"72",72,"female",32,10,"yes",5,14,4,"very happy",0
+"73",73,"female",22,0.125,"no",2,12,5,"very happy",0
+"74",74,"male",47,15,"yes",4,14,4,"neutral",0
+"75",75,"male",32,15,"yes",1,14,5,"very happy",0
+"76",76,"male",27,7,"yes",4,16,5,"very happy",0
+"77",77,"female",22,1.5,"yes",3,16,5,"very happy",0
+"78",78,"male",27,4,"yes",3,17,6,"very happy",0
+"79",79,"female",22,1.5,"no",3,16,5,"very happy",0
+"80",80,"male",57,15,"yes",2,14,7,"unhappy",0
+"81",81,"male",17.5,1.5,"yes",3,18,6,"very happy",0
+"82",82,"male",57,15,"yes",4,20,6,"very happy",0
+"83",83,"female",22,0.75,"no",2,16,3,"happy",0
+"84",84,"male",42,4,"no",4,17,3,"neutral",0
+"85",85,"female",22,1.5,"yes",4,12,1,"very happy",0
+"86",86,"female",22,0.417,"no",1,17,6,"happy",0
+"87",87,"female",32,15,"yes",4,17,5,"very happy",0
+"88",88,"female",27,1.5,"no",3,18,5,"unhappy",0
+"89",89,"female",22,1.5,"yes",3,14,1,"very happy",0
+"90",90,"female",37,15,"yes",3,14,1,"happy",0
+"91",91,"female",32,15,"yes",4,14,3,"happy",0
+"92",92,"male",37,10,"yes",2,14,5,"neutral",0
+"93",93,"male",37,10,"yes",4,16,5,"happy",0
+"94",94,"male",57,15,"yes",5,20,5,"neutral",0
+"95",95,"male",27,0.417,"no",1,16,3,"happy",0
+"96",96,"female",42,15,"yes",5,14,1,"very happy",0
+"97",97,"male",57,15,"yes",3,16,6,"very unhappy",0
+"98",98,"male",37,10,"yes",1,16,6,"happy",0
+"99",99,"male",37,15,"yes",3,17,5,"very happy",0
+"100",100,"male",37,15,"yes",4,20,6,"very happy",0
+"101",101,"female",27,10,"yes",5,14,1,"very happy",0
+"102",102,"male",37,10,"yes",2,18,6,"happy",0
+"103",103,"female",22,0.125,"no",4,12,4,"very happy",0
+"104",104,"male",57,15,"yes",5,20,6,"very happy",0
+"105",105,"female",37,15,"yes",4,18,6,"happy",0
+"106",106,"male",22,4,"yes",4,14,6,"happy",0
+"107",107,"male",27,7,"yes",4,18,5,"happy",0
+"108",108,"male",57,15,"yes",4,20,5,"happy",0
+"109",109,"male",32,15,"yes",3,14,6,"neutral",0
+"110",110,"female",22,1.5,"no",2,14,5,"happy",0
+"111",111,"female",32,7,"yes",4,17,1,"very happy",0
+"112",112,"female",37,15,"yes",4,17,6,"very happy",0
+"113",113,"female",32,1.5,"no",5,18,5,"very happy",0
+"114",114,"male",42,10,"yes",5,20,7,"happy",0
+"115",115,"female",27,7,"no",3,16,5,"happy",0
+"116",116,"male",37,15,"no",4,20,6,"very happy",0
+"117",117,"male",37,15,"yes",4,14,3,"unhappy",0
+"118",118,"male",32,10,"no",5,18,6,"happy",0
+"119",119,"female",22,0.75,"no",4,16,1,"very happy",0
+"120",120,"female",27,7,"yes",4,12,2,"happy",0
+"121",121,"female",27,7,"yes",2,16,2,"very happy",0
+"122",122,"female",42,15,"yes",5,18,5,"happy",0
+"123",123,"male",42,15,"yes",4,17,5,"neutral",0
+"124",124,"female",27,7,"yes",2,16,1,"unhappy",0
+"125",125,"female",22,1.5,"no",3,16,5,"very happy",0
+"126",126,"male",37,15,"yes",5,20,6,"very happy",0
+"127",127,"female",22,0.125,"no",2,14,4,"very happy",0
+"128",128,"male",27,1.5,"no",4,16,5,"very happy",0
+"129",129,"male",32,1.5,"no",2,18,6,"very happy",0
+"130",130,"male",27,1.5,"no",2,17,6,"very happy",0
+"131",131,"female",27,10,"yes",4,16,1,"neutral",0
+"132",132,"male",42,15,"yes",4,18,6,"very happy",0
+"133",133,"female",27,1.5,"no",2,16,6,"very happy",0
+"134",134,"male",27,4,"no",2,18,6,"neutral",0
+"135",135,"female",32,10,"yes",3,14,5,"neutral",0
+"136",136,"female",32,15,"yes",3,18,5,"happy",0
+"137",137,"female",22,0.75,"no",2,18,6,"very happy",0
+"138",138,"female",37,15,"yes",2,16,1,"happy",0
+"139",139,"male",27,4,"yes",4,20,5,"very happy",0
+"140",140,"male",27,4,"no",1,20,5,"happy",0
+"141",141,"female",27,10,"yes",2,12,1,"happy",0
+"142",142,"female",32,15,"yes",5,18,6,"happy",0
+"143",143,"male",27,7,"yes",5,12,5,"neutral",0
+"144",144,"male",52,15,"yes",2,18,5,"happy",0
+"145",145,"male",27,4,"no",3,20,6,"neutral",0
+"146",146,"male",37,4,"yes",1,18,5,"happy",0
+"147",147,"male",27,4,"yes",4,14,5,"happy",0
+"148",148,"female",52,15,"yes",5,12,1,"neutral",0
+"149",149,"female",57,15,"yes",4,16,6,"happy",0
+"150",150,"male",27,7,"yes",1,16,5,"happy",0
+"151",151,"male",37,7,"yes",4,20,6,"neutral",0
+"152",152,"male",22,0.75,"no",2,14,4,"neutral",0
+"153",153,"male",32,4,"yes",2,18,5,"neutral",0
+"154",154,"male",37,15,"yes",4,20,6,"neutral",0
+"155",155,"male",22,0.75,"yes",2,14,4,"neutral",0
+"156",156,"male",42,15,"yes",4,20,6,"neutral",0
+"157",157,"female",52,15,"yes",5,17,1,"very unhappy",0
+"158",158,"female",37,15,"yes",4,14,1,"unhappy",0
+"159",159,"male",27,7,"yes",4,14,5,"neutral",0
+"160",160,"male",32,4,"yes",2,16,5,"very happy",0
+"161",161,"female",27,4,"yes",2,18,6,"very happy",0
+"162",162,"female",27,4,"yes",2,18,5,"very happy",0
+"163",163,"male",37,15,"yes",5,18,6,"very happy",0
+"164",164,"female",47,15,"yes",5,12,5,"happy",0
+"165",165,"female",32,10,"yes",3,17,1,"happy",0
+"166",166,"female",27,1.5,"yes",4,17,1,"unhappy",0
+"167",167,"female",57,15,"yes",2,18,5,"unhappy",0
+"168",168,"female",22,1.5,"no",4,14,5,"happy",0
+"169",169,"male",42,15,"yes",3,14,3,"happy",0
+"170",170,"male",57,15,"yes",4,9,2,"unhappy",0
+"171",171,"male",57,15,"yes",4,20,6,"very happy",0
+"172",172,"female",22,0.125,"no",4,14,4,"very happy",0
+"173",173,"female",32,10,"yes",4,14,1,"very happy",0
+"174",174,"female",42,15,"yes",3,18,5,"happy",0
+"175",175,"female",27,1.5,"no",2,18,6,"very happy",0
+"176",176,"male",32,0.125,"yes",2,18,5,"unhappy",0
+"177",177,"female",27,4,"no",3,16,5,"happy",0
+"178",178,"female",27,10,"yes",2,16,1,"happy",0
+"179",179,"female",32,7,"yes",4,16,1,"neutral",0
+"180",180,"female",37,15,"yes",4,14,5,"happy",0
+"181",181,"female",42,15,"yes",5,17,6,"unhappy",0
+"182",182,"male",32,1.5,"yes",4,14,6,"very happy",0
+"183",183,"female",32,4,"yes",3,17,5,"neutral",0
+"184",184,"female",37,7,"no",4,18,5,"very happy",0
+"185",185,"female",22,0.417,"yes",3,14,3,"very happy",0
+"186",186,"female",27,7,"yes",4,14,1,"very happy",0
+"187",187,"male",27,0.75,"no",3,16,5,"very happy",0
+"188",188,"male",27,4,"yes",2,20,5,"very happy",0
+"189",189,"male",32,10,"yes",4,16,4,"very happy",0
+"190",190,"male",32,15,"yes",1,14,5,"very happy",0
+"191",191,"male",22,0.75,"no",3,17,4,"very happy",0
+"192",192,"female",27,7,"yes",4,17,1,"happy",0
+"193",193,"male",27,0.417,"yes",4,20,5,"happy",0
+"194",194,"male",37,15,"yes",4,20,5,"happy",0
+"195",195,"female",37,15,"yes",2,14,1,"neutral",0
+"196",196,"male",22,4,"yes",1,18,5,"happy",0
+"197",197,"male",37,15,"yes",4,17,5,"neutral",0
+"198",198,"female",22,1.5,"no",2,14,4,"very happy",0
+"199",199,"male",52,15,"yes",4,14,6,"unhappy",0
+"200",200,"female",22,1.5,"no",4,17,5,"very happy",0
+"201",201,"male",32,4,"yes",5,14,3,"very happy",0
+"202",202,"male",32,4,"yes",2,14,3,"very happy",0
+"203",203,"female",22,1.5,"no",3,16,6,"very happy",0
+"204",204,"male",27,0.75,"no",2,18,3,"neutral",0
+"205",205,"female",22,7,"yes",2,14,5,"unhappy",0
+"206",206,"female",27,0.75,"no",2,17,5,"neutral",0
+"207",207,"female",37,15,"yes",4,12,1,"unhappy",0
+"208",208,"female",22,1.5,"no",1,14,1,"very happy",0
+"209",209,"female",37,10,"no",2,12,4,"happy",0
+"210",210,"female",37,15,"yes",4,18,5,"neutral",0
+"211",211,"female",42,15,"yes",3,12,3,"neutral",0
+"212",212,"male",22,4,"no",2,18,5,"very happy",0
+"213",213,"male",52,7,"yes",2,20,6,"unhappy",0
+"214",214,"male",27,0.75,"no",2,17,5,"very happy",0
+"215",215,"female",27,4,"no",2,17,4,"very happy",0
+"216",216,"male",42,1.5,"no",5,20,6,"very happy",0
+"217",217,"male",22,1.5,"no",4,17,6,"very happy",0
+"218",218,"male",22,4,"no",4,17,5,"neutral",0
+"219",219,"female",22,4,"yes",1,14,5,"happy",0
+"220",220,"male",37,15,"yes",5,20,4,"very happy",0
+"221",221,"female",37,10,"yes",3,16,6,"neutral",0
+"222",222,"male",42,15,"yes",4,17,6,"very happy",0
+"223",223,"female",47,15,"yes",4,17,5,"very happy",0
+"224",224,"male",22,1.5,"no",4,16,5,"happy",0
+"225",225,"female",32,10,"yes",3,12,1,"happy",0
+"226",226,"female",22,7,"yes",1,14,3,"very happy",0
+"227",227,"female",32,10,"yes",4,17,5,"happy",0
+"228",228,"male",27,1.5,"yes",2,16,2,"happy",0
+"229",229,"male",37,15,"yes",4,14,5,"very happy",0
+"230",230,"male",42,4,"yes",3,14,4,"very happy",0
+"231",231,"female",37,15,"yes",5,14,5,"happy",0
+"232",232,"female",32,7,"yes",4,17,5,"very happy",0
+"233",233,"female",42,15,"yes",4,18,6,"very happy",0
+"234",234,"male",27,4,"no",4,18,6,"happy",0
+"235",235,"male",22,0.75,"no",4,18,6,"very happy",0
+"236",236,"male",27,4,"yes",4,14,5,"neutral",0
+"237",237,"female",22,0.75,"no",5,18,1,"very happy",0
+"238",238,"female",52,15,"yes",5,9,5,"very happy",0
+"239",239,"male",32,10,"yes",3,14,5,"very happy",0
+"240",240,"female",37,15,"yes",4,16,4,"happy",0
+"241",241,"male",32,7,"yes",2,20,5,"happy",0
+"242",242,"female",42,15,"yes",3,18,1,"happy",0
+"243",243,"male",32,15,"yes",1,16,5,"very happy",0
+"244",244,"male",27,4,"yes",3,18,5,"very happy",0
+"245",245,"female",32,15,"yes",4,12,3,"happy",0
+"246",246,"male",22,0.75,"yes",3,14,2,"happy",0
+"247",247,"female",22,1.5,"no",3,16,5,"neutral",0
+"248",248,"female",42,15,"yes",4,14,3,"very happy",0
+"249",249,"female",52,15,"yes",3,16,5,"happy",0
+"250",250,"male",37,15,"yes",5,20,6,"happy",0
+"251",251,"female",47,15,"yes",4,12,2,"neutral",0
+"252",252,"male",57,15,"yes",2,20,6,"happy",0
+"253",253,"male",32,7,"yes",4,17,5,"very happy",0
+"254",254,"female",27,7,"yes",4,17,1,"happy",0
+"255",255,"male",22,1.5,"no",1,18,6,"very happy",0
+"256",256,"female",22,4,"yes",3,9,1,"happy",0
+"257",257,"female",22,1.5,"no",2,14,1,"very happy",0
+"258",258,"male",42,15,"yes",2,20,6,"happy",0
+"259",259,"male",57,15,"yes",4,9,2,"happy",0
+"260",260,"female",27,7,"yes",2,18,1,"very happy",0
+"261",261,"female",22,4,"yes",3,14,1,"very happy",0
+"262",262,"male",37,15,"yes",4,14,5,"neutral",0
+"263",263,"male",32,7,"yes",1,18,6,"happy",0
+"264",264,"female",22,1.5,"no",2,14,5,"very happy",0
+"265",265,"female",22,1.5,"yes",3,12,1,"neutral",0
+"266",266,"male",52,15,"yes",2,14,5,"very happy",0
+"267",267,"female",37,15,"yes",2,14,1,"very unhappy",0
+"268",268,"female",32,10,"yes",2,14,5,"very happy",0
+"269",269,"male",42,15,"yes",4,20,4,"very happy",0
+"270",270,"female",27,4,"yes",3,18,4,"very happy",0
+"271",271,"male",37,15,"yes",4,20,6,"very happy",0
+"272",272,"male",27,1.5,"no",3,18,5,"very happy",0
+"273",273,"female",22,0.125,"no",2,16,6,"neutral",0
+"274",274,"male",32,10,"yes",2,20,6,"neutral",0
+"275",275,"female",27,4,"no",4,18,5,"happy",0
+"276",276,"female",27,7,"yes",2,12,5,"very unhappy",0
+"277",277,"male",32,4,"yes",5,18,6,"neutral",0
+"278",278,"female",37,15,"yes",2,17,5,"very happy",0
+"279",279,"male",47,15,"no",4,20,6,"happy",0
+"280",280,"male",27,1.5,"no",1,18,5,"very happy",0
+"281",281,"male",37,15,"yes",4,20,6,"happy",0
+"282",282,"female",32,15,"yes",4,18,1,"happy",0
+"283",283,"female",32,7,"yes",4,17,5,"happy",0
+"284",284,"female",42,15,"yes",3,14,1,"neutral",0
+"285",285,"female",27,7,"yes",3,16,1,"happy",0
+"286",286,"male",27,1.5,"no",3,16,4,"unhappy",0
+"287",287,"male",22,1.5,"no",3,16,3,"very happy",0
+"288",288,"male",27,4,"yes",3,16,4,"unhappy",0
+"289",289,"female",27,7,"yes",3,12,1,"unhappy",0
+"290",290,"female",37,15,"yes",2,18,5,"happy",0
+"291",291,"female",37,7,"yes",3,14,4,"happy",0
+"292",292,"male",22,1.5,"no",2,16,5,"very happy",0
+"293",293,"male",37,15,"yes",5,20,5,"happy",0
+"294",294,"female",22,1.5,"no",4,16,5,"neutral",0
+"295",295,"female",32,10,"yes",4,16,1,"very happy",0
+"296",296,"male",27,4,"no",2,17,5,"neutral",0
+"297",297,"female",22,0.417,"no",4,14,5,"very happy",0
+"298",298,"female",27,4,"no",2,18,5,"very happy",0
+"299",299,"male",37,15,"yes",4,18,5,"neutral",0
+"300",300,"male",37,10,"yes",5,20,7,"happy",0
+"301",301,"female",27,7,"yes",2,14,4,"unhappy",0
+"302",302,"male",32,4,"yes",2,16,5,"very happy",0
+"303",303,"male",32,4,"yes",2,16,6,"happy",0
+"304",304,"male",22,1.5,"no",3,18,4,"very happy",0
+"305",305,"female",22,4,"yes",4,14,3,"happy",0
+"306",306,"female",17.5,0.75,"no",2,18,5,"happy",0
+"307",307,"male",32,10,"yes",4,20,4,"very happy",0
+"308",308,"female",32,0.75,"no",5,14,3,"neutral",0
+"309",309,"male",37,15,"yes",4,17,5,"neutral",0
+"310",310,"male",32,4,"no",3,14,4,"very happy",0
+"311",311,"female",27,1.5,"no",2,17,3,"unhappy",0
+"312",312,"female",22,7,"yes",4,14,1,"very happy",0
+"313",313,"male",47,15,"yes",5,14,6,"very happy",0
+"314",314,"male",27,4,"yes",1,16,4,"happy",0
+"315",315,"female",37,15,"yes",5,14,1,"neutral",0
+"316",316,"male",42,4,"yes",4,18,5,"very happy",0
+"317",317,"female",32,4,"yes",2,14,1,"very happy",0
+"318",318,"male",52,15,"yes",2,14,7,"happy",0
+"319",319,"female",22,1.5,"no",2,16,1,"happy",0
+"320",320,"male",52,15,"yes",4,12,2,"happy",0
+"321",321,"female",22,0.417,"no",3,17,1,"very happy",0
+"322",322,"female",22,1.5,"no",2,16,5,"very happy",0
+"323",323,"male",27,4,"yes",4,20,6,"happy",0
+"324",324,"female",32,15,"yes",4,14,1,"very happy",0
+"325",325,"female",27,1.5,"no",2,16,3,"very happy",0
+"326",326,"male",32,4,"no",1,20,6,"very happy",0
+"327",327,"male",37,15,"yes",3,20,6,"happy",0
+"328",328,"female",32,10,"no",2,16,6,"very happy",0
+"329",329,"female",32,10,"yes",5,14,5,"very happy",0
+"330",330,"male",37,1.5,"yes",4,18,5,"neutral",0
+"331",331,"male",32,1.5,"no",2,18,4,"happy",0
+"332",332,"female",32,10,"yes",4,14,1,"happy",0
+"333",333,"female",47,15,"yes",4,18,5,"happy",0
+"334",334,"female",27,10,"yes",5,12,1,"very happy",0
+"335",335,"male",27,4,"yes",3,16,4,"very happy",0
+"336",336,"female",37,15,"yes",4,12,4,"unhappy",0
+"337",337,"female",27,0.75,"no",4,16,5,"very happy",0
+"338",338,"female",37,15,"yes",4,16,1,"very happy",0
+"339",339,"female",32,15,"yes",3,16,1,"very happy",0
+"340",340,"female",27,10,"yes",2,16,1,"very happy",0
+"341",341,"male",27,7,"no",2,20,6,"very happy",0
+"342",342,"female",37,15,"yes",2,14,1,"neutral",0
+"343",343,"male",27,1.5,"yes",2,17,4,"happy",0
+"344",344,"female",22,0.75,"yes",2,14,1,"very happy",0
+"345",345,"male",22,4,"yes",4,14,2,"happy",0
+"346",346,"male",42,0.125,"no",4,17,6,"happy",0
+"347",347,"male",27,1.5,"yes",4,18,6,"very happy",0
+"348",348,"male",27,7,"yes",3,16,6,"neutral",0
+"349",349,"female",52,15,"yes",4,14,1,"neutral",0
+"350",350,"male",27,1.5,"no",5,20,5,"unhappy",0
+"351",351,"female",27,1.5,"no",2,16,5,"very happy",0
+"352",352,"female",27,1.5,"no",3,17,5,"very happy",0
+"353",353,"male",22,0.125,"no",5,16,4,"happy",0
+"354",354,"female",27,4,"yes",4,16,1,"very happy",0
+"355",355,"female",27,4,"yes",4,12,1,"very happy",0
+"356",356,"female",47,15,"yes",2,14,5,"very happy",0
+"357",357,"female",32,15,"yes",3,14,5,"neutral",0
+"358",358,"male",42,7,"yes",2,16,5,"very happy",0
+"359",359,"male",22,0.75,"no",4,16,6,"happy",0
+"360",360,"male",27,0.125,"no",3,20,6,"very happy",0
+"361",361,"male",32,10,"yes",3,20,6,"very happy",0
+"362",362,"female",22,0.417,"no",5,14,4,"very happy",0
+"363",363,"female",47,15,"yes",5,14,1,"happy",0
+"364",364,"female",32,10,"yes",3,14,1,"very happy",0
+"365",365,"male",57,15,"yes",4,17,5,"very happy",0
+"366",366,"male",27,4,"yes",3,20,6,"very happy",0
+"367",367,"female",32,7,"yes",4,17,1,"very happy",0
+"368",368,"female",37,10,"yes",4,16,1,"very happy",0
+"369",369,"female",32,10,"yes",1,18,1,"happy",0
+"370",370,"female",22,4,"no",3,14,1,"happy",0
+"371",371,"female",27,7,"yes",4,14,3,"unhappy",0
+"372",372,"male",57,15,"yes",5,18,5,"unhappy",0
+"373",373,"male",32,7,"yes",2,18,5,"very happy",0
+"374",374,"female",27,1.5,"no",4,17,1,"neutral",0
+"375",375,"male",22,1.5,"no",4,14,5,"very happy",0
+"376",376,"female",22,1.5,"yes",4,14,5,"happy",0
+"377",377,"female",32,7,"yes",3,16,1,"very happy",0
+"378",378,"female",47,15,"yes",3,16,5,"happy",0
+"379",379,"female",22,0.75,"no",3,16,1,"very happy",0
+"380",380,"female",22,1.5,"yes",2,14,5,"very happy",0
+"381",381,"female",27,4,"yes",1,16,5,"very happy",0
+"382",382,"male",52,15,"yes",4,16,5,"very happy",0
+"383",383,"male",32,10,"yes",4,20,6,"very happy",0
+"384",384,"male",47,15,"yes",4,16,6,"happy",0
+"385",385,"female",27,7,"yes",2,14,1,"unhappy",0
+"386",386,"female",22,1.5,"no",4,14,4,"very happy",0
+"387",387,"female",32,10,"yes",2,16,5,"happy",0
+"388",388,"female",22,0.75,"no",2,16,5,"happy",0
+"389",389,"female",22,1.5,"no",2,16,5,"very happy",0
+"390",390,"female",42,15,"yes",3,18,6,"happy",0
+"391",391,"female",27,7,"yes",5,14,4,"very happy",0
+"392",392,"male",42,15,"yes",4,16,4,"happy",0
+"393",393,"female",57,15,"yes",3,18,5,"unhappy",0
+"394",394,"male",42,15,"yes",3,18,6,"unhappy",0
+"395",395,"female",32,7,"yes",2,14,1,"unhappy",0
+"396",396,"male",22,4,"no",5,12,4,"very happy",0
+"397",397,"female",22,1.5,"no",1,16,6,"very happy",0
+"398",398,"female",22,0.75,"no",1,14,4,"very happy",0
+"399",399,"female",32,15,"yes",4,12,1,"very happy",0
+"400",400,"male",22,1.5,"no",2,18,5,"neutral",0
+"401",401,"male",27,4,"yes",5,17,2,"very happy",0
+"402",402,"female",27,4,"yes",4,12,1,"very happy",0
+"403",403,"male",42,15,"yes",5,18,5,"happy",0
+"404",404,"male",32,1.5,"no",2,20,7,"neutral",0
+"405",405,"male",57,15,"no",4,9,3,"very unhappy",0
+"406",406,"male",37,7,"no",4,18,5,"very happy",0
+"407",407,"male",52,15,"yes",2,17,5,"happy",0
+"408",408,"male",47,15,"yes",4,17,6,"very happy",0
+"409",409,"female",27,7,"no",2,17,5,"happy",0
+"410",410,"female",27,7,"yes",4,14,5,"very happy",0
+"411",411,"female",22,4,"no",2,14,3,"neutral",0
+"412",412,"male",37,7,"yes",2,20,6,"very happy",0
+"413",413,"male",27,7,"no",4,12,4,"neutral",0
+"414",414,"male",42,10,"yes",4,18,6,"happy",0
+"415",415,"female",22,1.5,"no",3,14,1,"very happy",0
+"416",416,"female",22,4,"yes",2,14,1,"neutral",0
+"417",417,"female",57,15,"no",4,20,6,"very happy",0
+"418",418,"male",37,15,"yes",4,14,4,"neutral",0
+"419",419,"female",27,7,"yes",3,18,5,"very happy",0
+"420",420,"female",17.5,10,"no",4,14,4,"very happy",0
+"421",421,"male",22,4,"yes",4,16,5,"very happy",0
+"422",422,"female",27,4,"yes",2,16,1,"happy",0
+"423",423,"female",37,15,"yes",2,14,5,"very unhappy",0
+"424",424,"female",22,1.5,"no",5,14,1,"happy",0
+"425",425,"male",27,7,"yes",2,20,5,"happy",0
+"426",426,"male",27,4,"yes",4,14,5,"very happy",0
+"427",427,"male",22,0.125,"no",1,16,3,"very happy",0
+"428",428,"female",27,7,"yes",4,14,1,"happy",0
+"429",429,"female",32,15,"yes",5,16,5,"neutral",0
+"430",430,"male",32,10,"yes",4,18,5,"happy",0
+"431",431,"female",32,15,"yes",2,14,3,"happy",0
+"432",432,"female",22,1.5,"no",3,17,5,"very happy",0
+"433",433,"male",27,4,"yes",4,17,4,"happy",0
+"434",434,"female",52,15,"yes",5,14,1,"very happy",0
+"435",435,"female",27,7,"yes",2,12,1,"unhappy",0
+"436",436,"female",27,7,"yes",3,12,1,"happy",0
+"437",437,"female",42,15,"yes",2,14,1,"happy",0
+"438",438,"female",42,15,"yes",4,14,5,"happy",0
+"439",439,"male",27,7,"yes",4,14,3,"neutral",0
+"440",440,"male",27,7,"yes",2,20,6,"unhappy",0
+"441",441,"female",42,15,"yes",3,12,3,"neutral",0
+"442",442,"male",27,4,"yes",3,16,3,"very happy",0
+"443",443,"female",27,7,"yes",3,14,1,"happy",0
+"444",444,"female",22,1.5,"no",2,14,4,"very happy",0
+"445",445,"female",27,4,"yes",4,14,1,"happy",0
+"446",446,"female",22,4,"no",4,14,5,"very happy",0
+"447",447,"female",22,1.5,"no",2,16,4,"very happy",0
+"448",448,"male",47,15,"no",4,14,5,"happy",0
+"449",449,"male",37,10,"yes",2,18,6,"unhappy",0
+"450",450,"male",37,15,"yes",3,17,5,"happy",0
+"451",451,"female",27,4,"yes",2,16,1,"happy",0
+"452",452,"male",27,1.5,"no",3,18,4,"happy",3
+"453",453,"female",27,4,"yes",3,17,1,"very happy",3
+"454",454,"male",37,15,"yes",5,18,6,"unhappy",7
+"455",455,"female",32,10,"yes",3,17,5,"unhappy",12
+"456",456,"male",22,0.125,"no",4,16,5,"very happy",1
+"457",457,"female",22,1.5,"yes",2,14,1,"very happy",1
+"458",458,"male",37,15,"yes",4,14,5,"unhappy",12
+"459",459,"female",22,1.5,"no",2,14,3,"happy",7
+"460",460,"male",37,15,"yes",2,18,6,"happy",2
+"461",461,"female",32,15,"yes",4,12,3,"unhappy",3
+"462",462,"female",37,15,"yes",4,14,4,"unhappy",1
+"463",463,"female",42,15,"yes",3,17,1,"happy",7
+"464",464,"female",42,15,"yes",5,9,4,"very unhappy",12
+"465",465,"male",37,10,"yes",2,20,6,"unhappy",12
+"466",466,"female",32,15,"yes",3,14,1,"unhappy",12
+"467",467,"male",27,4,"no",1,18,6,"very happy",3
+"468",468,"male",37,10,"yes",2,18,7,"neutral",7
+"469",469,"female",27,4,"no",3,17,5,"very happy",7
+"470",470,"male",42,15,"yes",4,16,5,"very happy",1
+"471",471,"female",47,15,"yes",5,14,4,"very happy",1
+"472",472,"female",27,4,"yes",3,18,5,"happy",7
+"473",473,"female",27,7,"yes",5,14,1,"happy",1
+"474",474,"male",27,1.5,"yes",3,17,5,"happy",12
+"475",475,"female",27,7,"yes",4,14,6,"unhappy",12
+"476",476,"female",42,15,"yes",4,16,5,"happy",3
+"477",477,"female",27,10,"yes",4,12,7,"neutral",7
+"478",478,"male",27,1.5,"no",2,18,5,"unhappy",1
+"479",479,"male",32,4,"no",4,20,6,"happy",1
+"480",480,"female",27,7,"yes",3,14,1,"neutral",1
+"481",481,"female",32,10,"yes",4,14,1,"happy",3
+"482",482,"male",27,4,"yes",2,18,7,"unhappy",3
+"483",483,"female",17.5,0.75,"no",5,14,4,"very happy",1
+"484",484,"female",32,10,"yes",4,18,1,"very happy",1
+"485",485,"female",32,7,"yes",2,17,6,"happy",7
+"486",486,"male",37,15,"yes",2,20,6,"happy",7
+"487",487,"female",37,10,"no",1,20,5,"neutral",7
+"488",488,"female",32,10,"yes",2,16,5,"very happy",12
+"489",489,"male",52,15,"yes",2,20,6,"happy",7
+"490",490,"female",42,15,"yes",1,12,1,"neutral",7
+"491",491,"male",52,15,"yes",2,20,6,"neutral",1
+"492",492,"male",37,15,"yes",3,18,6,"very happy",2
+"493",493,"female",22,4,"no",3,12,3,"happy",12
+"494",494,"male",27,7,"yes",1,18,6,"unhappy",12
+"495",495,"male",27,4,"yes",3,18,5,"very happy",1
+"496",496,"male",47,15,"yes",4,17,6,"very happy",12
+"497",497,"female",42,15,"yes",4,12,1,"very unhappy",12
+"498",498,"male",27,4,"no",3,14,3,"happy",7
+"499",499,"female",32,7,"yes",4,18,4,"very happy",7
+"500",500,"male",32,0.417,"yes",3,12,3,"happy",1
+"501",501,"male",47,15,"yes",5,16,5,"happy",3
+"502",502,"male",37,15,"yes",2,20,5,"happy",12
+"503",503,"male",22,4,"yes",2,17,6,"happy",7
+"504",504,"male",27,4,"no",2,14,4,"very happy",1
+"505",505,"female",52,15,"yes",5,16,1,"neutral",7
+"506",506,"male",27,4,"no",3,14,3,"neutral",1
+"507",507,"female",27,10,"yes",4,16,1,"happy",1
+"508",508,"male",32,7,"yes",3,14,7,"happy",1
+"509",509,"male",32,7,"yes",2,18,4,"very unhappy",7
+"510",510,"male",22,1.5,"no",1,14,3,"unhappy",3
+"511",511,"male",22,4,"yes",3,18,6,"happy",7
+"512",512,"male",42,15,"yes",4,20,6,"happy",7
+"513",513,"female",57,15,"yes",1,18,5,"happy",2
+"514",514,"female",32,4,"yes",3,18,5,"unhappy",7
+"515",515,"male",27,4,"yes",1,16,4,"happy",1
+"516",516,"male",32,7,"yes",4,16,1,"happy",7
+"517",517,"male",57,15,"yes",1,17,4,"happy",2
+"518",518,"female",42,15,"yes",4,14,5,"unhappy",7
+"519",519,"male",37,10,"yes",1,18,5,"neutral",7
+"520",520,"male",42,15,"yes",3,17,6,"very unhappy",3
+"521",521,"female",52,15,"yes",3,14,4,"happy",1
+"522",522,"female",27,7,"yes",3,17,5,"neutral",2
+"523",523,"male",32,7,"yes",2,12,4,"unhappy",12
+"524",524,"male",22,4,"no",4,14,2,"very happy",1
+"525",525,"male",27,7,"yes",3,18,6,"happy",3
+"526",526,"female",37,15,"yes",1,18,5,"very happy",12
+"527",527,"female",32,15,"yes",3,17,1,"neutral",7
+"528",528,"female",27,7,"no",2,17,5,"very happy",7
+"529",529,"female",32,7,"yes",3,17,5,"neutral",1
+"530",530,"male",32,1.5,"yes",2,14,2,"happy",1
+"531",531,"female",42,15,"yes",4,14,1,"unhappy",12
+"532",532,"male",32,10,"yes",3,14,5,"happy",7
+"533",533,"male",37,4,"yes",1,20,6,"neutral",7
+"534",534,"female",27,4,"yes",2,16,5,"neutral",1
+"535",535,"female",42,15,"yes",3,14,4,"neutral",12
+"536",536,"male",27,10,"yes",5,20,6,"very happy",1
+"537",537,"male",37,10,"yes",2,20,6,"unhappy",12
+"538",538,"female",27,7,"yes",1,14,3,"neutral",12
+"539",539,"female",27,7,"yes",4,12,1,"unhappy",3
+"540",540,"male",32,10,"yes",2,14,4,"happy",3
+"541",541,"female",17.5,0.75,"yes",2,12,1,"neutral",12
+"542",542,"female",32,15,"yes",3,18,5,"happy",12
+"543",543,"female",22,7,"no",4,14,4,"neutral",2
+"544",544,"male",32,7,"yes",4,20,6,"very happy",1
+"545",545,"male",27,4,"yes",2,18,6,"unhappy",7
+"546",546,"female",22,1.5,"yes",5,14,5,"neutral",1
+"547",547,"female",32,15,"no",3,17,5,"very unhappy",12
+"548",548,"female",42,15,"yes",2,12,1,"unhappy",12
+"549",549,"male",42,15,"yes",3,20,5,"happy",7
+"550",550,"male",32,10,"no",2,18,4,"unhappy",12
+"551",551,"female",32,15,"yes",3,9,1,"very unhappy",12
+"552",552,"male",57,15,"yes",5,20,4,"very happy",7
+"553",553,"male",47,15,"yes",4,20,6,"happy",12
+"554",554,"female",42,15,"yes",2,17,6,"neutral",2
+"555",555,"male",37,15,"yes",3,17,6,"neutral",12
+"556",556,"male",37,15,"yes",5,17,5,"unhappy",12
+"557",557,"male",27,10,"yes",2,20,6,"happy",7
+"558",558,"male",37,15,"yes",2,16,5,"happy",2
+"559",559,"female",32,15,"yes",1,14,5,"unhappy",12
+"560",560,"male",32,10,"yes",3,17,6,"neutral",7
+"561",561,"male",37,15,"yes",4,18,5,"very unhappy",2
+"562",562,"female",27,1.5,"no",2,17,5,"very happy",7
+"563",563,"female",47,15,"yes",2,17,5,"unhappy",3
+"564",564,"male",37,15,"yes",2,17,5,"happy",12
+"565",565,"female",27,4,"no",2,14,5,"very happy",12
+"566",566,"female",27,10,"yes",4,14,1,"very happy",2
+"567",567,"female",22,4,"yes",3,16,1,"neutral",1
+"568",568,"male",52,7,"no",4,16,5,"very happy",12
+"569",569,"female",27,4,"yes",1,16,3,"very happy",2
+"570",570,"female",37,15,"yes",2,17,6,"happy",7
+"571",571,"female",27,4,"no",1,17,3,"very unhappy",2
+"572",572,"female",17.5,0.75,"yes",2,12,3,"very happy",12
+"573",573,"female",32,15,"yes",5,18,5,"happy",7
+"574",574,"female",22,4,"no",1,16,3,"very happy",7
+"575",575,"male",32,4,"yes",4,18,6,"happy",2
+"576",576,"female",22,1.5,"yes",3,18,5,"unhappy",1
+"577",577,"female",42,15,"yes",2,17,5,"happy",3
+"578",578,"male",32,7,"yes",4,16,4,"happy",1
+"579",579,"male",37,15,"no",3,14,6,"unhappy",12
+"580",580,"male",42,15,"yes",3,16,6,"neutral",1
+"581",581,"male",27,4,"yes",1,18,5,"happy",1
+"582",582,"male",37,15,"yes",4,20,7,"neutral",2
+"583",583,"male",37,15,"yes",3,20,6,"happy",7
+"584",584,"male",22,1.5,"no",2,12,3,"neutral",3
+"585",585,"male",32,4,"yes",3,20,6,"unhappy",3
+"586",586,"male",32,15,"yes",5,20,6,"very happy",2
+"587",587,"female",52,15,"yes",1,18,5,"very happy",12
+"588",588,"male",47,15,"no",1,18,6,"very happy",12
+"589",589,"female",32,15,"yes",4,16,4,"happy",3
+"590",590,"female",32,15,"yes",3,14,3,"unhappy",7
+"591",591,"female",27,7,"yes",4,16,1,"unhappy",7
+"592",592,"male",42,15,"yes",3,18,6,"unhappy",12
+"593",593,"female",42,15,"yes",2,14,3,"unhappy",7
+"594",594,"male",27,7,"yes",2,17,5,"happy",12
+"595",595,"male",32,10,"yes",4,14,4,"neutral",3
+"596",596,"male",47,15,"yes",3,16,4,"unhappy",7
+"597",597,"male",22,1.5,"yes",1,12,2,"very happy",1
+"598",598,"female",32,10,"yes",2,18,5,"happy",7
+"599",599,"male",32,10,"yes",2,17,6,"very happy",2
+"600",600,"male",22,7,"yes",3,18,6,"unhappy",2
+"601",601,"female",32,15,"yes",3,14,1,"very happy",1
